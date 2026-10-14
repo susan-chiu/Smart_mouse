@@ -1,0 +1,20 @@
+{
+  "name": "聰明鼠 — 比特幣新手教學",
+  "short_name": "聰明鼠",
+  "description": "跟著松鼠聰聰學比特幣：六關課程、防詐演練、保管演練與真實價格歷史回測。僅供教育用途，不提供交易或投資建議。",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "zh-Hant",
+  "dir": "ltr",
+  "background_color": "#FFF4F9",
+  "theme_color": "#EC5F9E",
+  "categories": ["education", "finance"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
